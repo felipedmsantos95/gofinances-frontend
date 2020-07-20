@@ -1,4 +1,4 @@
-# GoFinances
+# GoFinances Frontend
 
 <p align="center">
     <a href="readme_en.md">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,11 +13,12 @@
 
 ## Sobre
 
-Plataforma web em React.js para gestão de transações com envio de arquivos por formulário.
+Plataforma web em React.js para gestão de transações com envio de arquivos por formulário. O repositório do backend está disponível [aqui](https://github.com/felipedmsantos95/gofinances-backend)
+
 
 ## Tecnologias utilizadas
 
-- React.js - Frontend
+- React.js
 
 ## Requisitos
 

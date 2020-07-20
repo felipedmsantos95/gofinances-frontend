@@ -1,4 +1,4 @@
-# GoFinances
+# GoFinances Frontend
 
 <p align="center">
     <a href="readme_en.md">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,11 +13,11 @@
 
 ## About
 
-Web platform in React.js to transactions management with files upload by form.
+Web platform in React.js to transactions management with files upload by form. The repository of the backend is available [here](https://github.com/felipedmsantos95/gofinances-backend)
 
 ## Technologies used
 
-- React.js - Frontend
+- React.js
 
 ## Requirements
 
