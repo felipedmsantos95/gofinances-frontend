@@ -13,7 +13,7 @@
 
 ## About
 
-React.js web platform that connects to the public Github API, making it possible to explore user repositories on Github.
+Web platform in React.js to transactions management with files upload by form.
 
 ## Technologies used
 

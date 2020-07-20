@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Plataforma web em React.js que faz conexão com a API pública do Github, desta forma sendo possível explorar repositórios de usuários no Github.
+Plataforma web em React.js para gestão de transações com envio de arquivos por formulário.
 
 ## Tecnologias utilizadas
 
@@ -63,7 +63,7 @@ Você pode consultar a sessão ["Deployment"](https://facebook.github.io/create-
 
 
 <h3 align="center">
-  Enunciado desafio 07: GoFinances Web
+  Enunciado do desafio proposto
 </h3>
 
 ## Sobre o desafio
