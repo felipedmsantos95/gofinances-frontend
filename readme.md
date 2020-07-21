@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Plataforma web em React.js para gestão de transações com envio de arquivos por formulário. O repositório do backend está disponível [aqui](https://github.com/felipedmsantos95/gofinances-backend)
+Plataforma web em React.js para gestão de transações com envio de arquivos por formulário. O repositório do backend está disponível [aqui](https://github.com/felipedmsantos95/gofinances-backend).
 
 
 ## Tecnologias utilizadas

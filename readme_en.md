@@ -13,7 +13,7 @@
 
 ## About
 
-Web platform in React.js to transactions management with files upload by form. The repository of the backend is available [here](https://github.com/felipedmsantos95/gofinances-backend)
+Web platform in React.js to transactions management with files upload by form. The repository of the backend is available [here](https://github.com/felipedmsantos95/gofinances-backend).
 
 ## Technologies used
 
