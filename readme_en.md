@@ -7,9 +7,9 @@
 
 ## Application preview
 
-<!-- <p align="center">
-  <img src="https://github.com/felipedmsantos95/github-explorer/blob/master/src/assets/github_explorer.gif"/>
-</p> -->
+<p align="center">
+  <img src="https://github.com/felipedmsantos95/gofinances-frontend/blob/master/src/assets/gofinances.gif"/>
+</p>
 
 ## About
 
