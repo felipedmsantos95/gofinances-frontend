@@ -18,7 +18,7 @@ Plataforma web em React.js para gestão de transações com envio de arquivos po
 
 ## Tecnologias utilizadas
 
-- React.js p
+- React.js
 
 ## Requisitos
 
