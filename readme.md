@@ -58,8 +58,6 @@ Você pode consultar a sessão ["Running tests"](https://facebook.github.io/crea
 Compila o app para entrar em modo de produção para a pasta chamada `build`.<br />
 Desta forma, isso organiza o React no modo de produção e otimiza a compilação para obter melhor desempenho.
 
-A compilação é minimalista e os nomes dos arquivos incluem os hashes.<br />
-
 Você pode consultar a sessão ["Deployment"](https://facebook.github.io/create-react-app/docs/deployment) na documentação do React para mais informações.
 
 
